@@ -10,7 +10,7 @@ node_modules/
 
 # [PRIVATE & SENSITIVE FILES]
 # Excluding personal assets and temporary testing files from the repository
-public/images/Harshit.jpg
+
 public/lala.html
 
 # [OS GENERATED FILES]
