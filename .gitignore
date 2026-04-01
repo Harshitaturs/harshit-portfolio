@@ -1,0 +1,39 @@
+# ==========================================
+# PROJECT: Harshit Portfolio 1.0
+# Global Git Exclusion Rules
+# ==========================================
+
+# [DEPENDENCIES]
+# Ignore local dependencies (always re-installable via npm/yarn)
+node_modules/
+
+# [BUILD OUTPUT]
+# Ignore compiled Tailwind/production assets
+dist/
+
+# [PRIVATE & SENSITIVE FILES]
+# Excluding personal assets and temporary testing files from the repository
+public/images/Harshit.jpg
+public/lala.html
+
+# [OS GENERATED FILES]
+# Prevent system-specific junk files from cluttering the repo
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# [ENVIRONMENT & SECURITY]
+# Protecting local environment variables and sensitive API keys
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# [LOG FILES]
+# Ignore error logs generated during development
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
