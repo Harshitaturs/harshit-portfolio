@@ -21,12 +21,5 @@ Welcome to my digital headquarters! This is my high-performance portfolio built 
 ├── index.html       # Entry point
 └── .gitignore       # Environment security
 
-## Current Mission
+🎯 Current Mission
 I am currently deep-diving into Next.js & TypeScript to build an AI-driven recruitment filtration system. My goal is to bridge the gap between complex backend logic and pixel-perfect frontend experiences.
-
-🤝 Connect with Me
-LinkedIn: withharshit
-
-GitHub: Harshitaturs
-
-Hashnode: harshitaturs
