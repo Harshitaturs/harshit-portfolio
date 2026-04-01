@@ -7,9 +7,6 @@
 # Ignore local dependencies (always re-installable via npm/yarn)
 node_modules/
 
-# [BUILD OUTPUT]
-# Ignore compiled Tailwind/production assets
-dist/
 
 # [PRIVATE & SENSITIVE FILES]
 # Excluding personal assets and temporary testing files from the repository
